@@ -1,0 +1,13 @@
+{
+  "name": "coderhouse-utils",
+  "version": "1.0.1",
+  "description": "Coderhouse utilidades comisión 51220",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node", "backend", "coderhouse"],
+  "author": "IDD",
+  "license": "MIT"
+}
