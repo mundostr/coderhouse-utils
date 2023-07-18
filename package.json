@@ -4,6 +4,11 @@
   "description": "Coderhouse utilidades comisión 51220",
   "main": "index.js",
   "type": "module",
+  "homepage": "https://github.com/mundostr/coderhouse-utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mundostr/coderhouse-utils"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
